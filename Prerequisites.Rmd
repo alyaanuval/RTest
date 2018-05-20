@@ -32,3 +32,6 @@ The following are free sections within DataCamp courses that can help you unders
 * **Writing Functions in R** - A quick refresher (for 5 and 6)
 * **Intermediate R** - Conditionals and Control Flow (for 7)
 * **Importing & Cleaning Data in R** - Ticket Sales Data (for 8)
+
+Further, we suggest using RMarkdown when writing a report. This package allows you to record both your code and output in a single file.
+
